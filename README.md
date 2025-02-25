@@ -2,6 +2,10 @@
 
 Ubuntu in your termux application without a ` rooted ` device 📱
 
+![UBUNTU SCREENSHORT](https://github.com/HYDRA-TERMUX/ubuntu-termux/blob/main/IMG/Screenshot_20250225-201013_Termux~2.jpg)
+
+https://github.com/HYDRA-TERMUX/ubuntu-termux/blob/main/IMG/Screenshot_20250225-201013_Termux~2.jpg
+
 ## Installation Setup
 
 ⚙️  ``` apt-get update && apt-get upgrade -y ```
