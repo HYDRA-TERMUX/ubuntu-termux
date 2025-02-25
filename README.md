@@ -1,0 +1,2 @@
+# ubuntu-termux
+INSTALL UBUNTU IN TERMUX
