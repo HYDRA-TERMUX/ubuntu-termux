@@ -11,5 +11,5 @@ echo -e " \e[34m
                                                       
                                                       
 "
-echo -e "CODE DEVELOPED BY \e[40;38;5;82m TECH \e[30;48;5;82m COCHI \e[0m"
+echo -e "CODE DEVELOPED BY \e[40;38;5;82m HYDRA \e[30;48;5;82m TERMUX \e[0m"
 echo ""
