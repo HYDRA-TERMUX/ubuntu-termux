@@ -1,0 +1,12 @@
+#!/bin/bash
+#tech cochi
+#new code land 
+#2021SA26238AM
+clear
+chmod +x ubuntu.sh
+bash logo.sh
+./ubuntu.sh -y
+clear
+echo " type  bash start "
+sleep 4
+
