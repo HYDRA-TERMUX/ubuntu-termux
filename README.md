@@ -28,7 +28,7 @@ Ubuntu in your termux application without a ` rooted ` device 📱
 
 [![Blogspot](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://hydratermux.blogspot.com)
 [![Github](https://img.shields.io/badge/Github-HYDRA--TERMUX-green?style=for-the-badge&logo=github)](https://github.com/hydra-termux)
-[![YouTube](https://img.shields.io/badge/youtube-HYDRA--TERMUX-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/HYDRATERMUX)
+[![YouTube](https://img.shields.io/badge/youtube-HYDRA--TERMUX-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/@HYDRATERMUX)
 
 
 
