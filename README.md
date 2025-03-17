@@ -24,6 +24,10 @@ Ubuntu in your termux application without a ` rooted ` device 📱
 ⚙️ ``` bash start ```
 
 
+
+![Visitor Count](https://profile-counter.glitch.me/HYDRA-TERMUX/count.svg)
+
+
 # ABOUT ME
 
 [![Blogspot](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://hydratermux.blogspot.com)
